@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Shrishti
+## Hi, I'm Shrishti
 
 I'm a Computer Science student at Penn interested in exploring AI in sports, education, and fairness. 
 
