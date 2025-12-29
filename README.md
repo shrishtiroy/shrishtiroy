@@ -1,6 +1,6 @@
 ## Hi, I'm Shrishti
 
-I'm a Computer Science student at Penn interested in exploring AI in sports, education, and fairness. 
+I'm a Computer Science student at the University of Pennsylvania interested in exploring AI in sports, education, and fairness. 
 
 - 🏀 Passionate about optimizing systems in sports analytics  
 - 📚 Interested in building smarter educational tools  
