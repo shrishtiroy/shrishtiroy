@@ -8,6 +8,6 @@ I'm a Computer Science student at the University of Pennsylvania interested in e
 
 * My hobbies include soccer, basektball, running, and cooking! <br>
 * Open to internship and part-time opportunities  
-* Reach me at: shroy@seas.upenn.edu
+* Reach me at: shroy@engineering.upenn.edu
 * www.shrishtiroy.org
 
